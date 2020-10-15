@@ -44,11 +44,11 @@
 <br><br> Now, what is routing and why is it important as well as packets and IP addresses? Routing is the process of selecting a path for traffic in a network or between or across multiple networks. Broadly, routing is performed in many types of networks, including circuit-switched networks, such as the public switched telephone network, and computer networks, such as the Internet for the best example.
 </p>
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/ccoco-1.png" width="700" height="500">
-    <p style="font-size: 20px; color: #721c24;"><br><br>There are 3 types of routing:
+    <p style="font-size: 20px; color: #721c24;"><br><br>There are 3 types of routing:<br><br>
     <br>1.Static routing – A process in which we have to manually add routes in routing table. It is cheap and easy to use but is hard to manage in a big network.
     <br><br>2.Default Routing - Method where the router is configured to send all packets towards a single router (next hop). It doesn’t matter to which network the packet belongs, it is forwarded out to router which is configured for default routing. It is generally used with stub routers. A stub router is a router which has only one route to reach all other networks.
     <br><br>3.Dynamic Routing - It makes automatic adjustment of the routes according to the current state of the route in the routing table. Dynamic routing uses protocols to discover network destinations and the routes to reach it. RIP and OSPF are the best examples of dynamic routing protocol. Automatic adjustment will be made to reach the network destination if one route goes down.
-    <br><br>
+    <br><br>Deciding which type of routing to be used depends on what the Internet environment you use is like. Because a routing metric is specific to a given routing protocol, multi-protocol routers must use some external heuristic to select between routes learned from different routing protocols. Cisco routers, for example, attribute a value known as the administrative distance to each route, where smaller administrative distances indicate routes learned from a protocol assumed to be more reliable.
 
 </div>
 
