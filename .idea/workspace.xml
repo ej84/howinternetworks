@@ -57,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602703377750</updated>
       <workItem from="1602703381791" duration="8954000" />
-      <workItem from="1602715289922" duration="17394000" />
+      <workItem from="1602715289922" duration="18112000" />
     </task>
     <task id="LOCAL-00001" summary="Updated: about page">
       <created>1602717752996</created>
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602731194885</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update: added more images and texts">
+      <created>1602732916184</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602732916184</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +186,8 @@
     <MESSAGE value="https: added more texts" />
     <MESSAGE value="index: edited some typos" />
     <MESSAGE value="update: created w3c page" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: created w3c page" />
+    <MESSAGE value="update: added more images and texts" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: added more images and texts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Deployment" timestamp="1602715728655">
@@ -194,10 +202,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="439" y="141" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602706303150" />
-    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1602731194183">
+    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1602732915331">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602731194183" />
+    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602732915331" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602716072153">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -210,10 +218,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="448" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602715952247" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602731204551">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602732926783">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602731204551" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602732926783" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602732289872">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
