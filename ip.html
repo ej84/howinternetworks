@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IP Packing Routing</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body class="bg-danger">
+
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand">How the Internet works</a>
+        </div>
+        <ul class="nav navbar-nav">
+            <li><a href="index.html">Main</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="domain.html">Domain Names</a></li>
+            <li><a href="ip.html">IP, Packets and Routing</a></li>
+            <li><a href="dns.html">DNS</a></li>
+            <li><a href="http.html">HTTP(S) Protocols</a></li>
+            <li><a href="w3c.html">W3C and HTML&CSS</a></li>
+        </ul>
+    </div>
+</nav>
+<div>
+<h1 style="font-style: oblique; color:olivedrab">IP Addresses<br></h1>
+<img src="images/ipaddress.jpg" alt="">
+<p style="color: #28a745; font-size: 20px">
+    <br>An Internet Protocol address (IP address for short) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. An IP address serves two main functions: host or network interface identification and location addressing.
+    <br><br>Internet Protocol version 4 (shortly IPv4) defines an IP address as a 32-bit number. However, because of the growth of the Internet and the depletion of available IPv4 addresses, a new version of IP (IPv6), using 128 bits for the IP address, was standardized in 1998. IPv6 deployment has been ongoing since the mid-2000s.
+    <br><br>An IP address serves two principal functions. It identifies the host, or more specifically its network interface, and it provides the location of the host in the network, and thus the capability of establishing a path to that host. Its role has been characterized as "A name indicates what we seek. An address indicates where it is. A route indicates how to get there." The header of each IP packet contains the IP address of the sending host, and that of the destination host. We can simply think about how we can find our friends and communicate on the Internet.<br>
+</p>
+
+<h1 style="font-style: normal; color: #16181b">Packets and Routing<br></h1>
+<p style="font-size: 20px; color: #721c24;"><br>
+    Packet is a formatted unit of data carried by a packet-switched network. A packet consists of control information and user data. The latter is also known as the payload. Control information provides data for delivering the payload (ex: source and destination network addresses, error detection codes, or sequencing information). Generally, control information is found in packet headers and trailers.
+    <br>
+</p>
+<img src="https://electricala2z.com/wp-content/uploads/2017/10/osi-model.gif" width="700" height="500">
+<p style="font-size: 20px; color: #721c24;"><br>Typically, in the seven-layer OSI model of computer networking, packet strictly refers to a protocol data unit at layer 3, the network layer.[citation needed] A data unit at layer 2, the data link layer, is a frame. In layer 4, the transport layer, the data units are segments and datagrams. Thus, in the example of TCP/IP communication over Ethernet, a TCP segment is carried in one or more IP packets, which are each carried in one or more Ethernet frames. Packets help divide a big data into small pieces so they will be delivered to the receiver safely without being lost or changed in the essence.
+<br><br> Now, what is routing and why is it important as well as packets and IP addresses?     
+</p>
+
+
+</div>
+
+</body>
+</html>
