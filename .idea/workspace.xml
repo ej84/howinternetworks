@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c38f8eb-a23e-4d8d-b892-3a6abf5950bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/domain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icann.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,13 +23,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1isjpUXRHXdCs9dzeIePNoolPQx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -55,12 +59,33 @@
       <option name="presentableId" value="Default" />
       <updated>1602703377750</updated>
       <workItem from="1602703381791" duration="8954000" />
-      <workItem from="1602715289922" duration="2139000" />
+      <workItem from="1602715289922" duration="9760000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated: about page">
+      <created>1602717752996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602717752996</updated>
+    </task>
+    <task id="LOCAL-00002" summary="created: images directory">
+      <created>1602722699269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602722699269</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Updated: about page" />
+    <MESSAGE value="created: images directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="created: images directory" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Deployment" timestamp="1602715728655">
@@ -75,6 +100,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="439" y="141" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602706303150" />
+    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1602722697831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602722697831" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602716072153">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -87,5 +116,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="448" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602715952247" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602722710538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602722710538" />
   </component>
 </project>
