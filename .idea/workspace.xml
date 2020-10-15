@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c38f8eb-a23e-4d8d-b892-3a6abf5950bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/http.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/dns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http.html" beforeDir="false" afterPath="$PROJECT_DIR$/http.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602703377750</updated>
       <workItem from="1602703381791" duration="8954000" />
-      <workItem from="1602715289922" duration="14065000" />
+      <workItem from="1602715289922" duration="14633000" />
     </task>
     <task id="LOCAL-00001" summary="Updated: about page">
       <created>1602717752996</created>
@@ -123,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602728931207</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="updated: https page">
+      <created>1602729414332</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602729414332</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +145,8 @@
     <MESSAGE value="ip page: added more texts" />
     <MESSAGE value="updated: dns page" />
     <MESSAGE value="dns page: added more explanations" />
-    <option name="LAST_COMMIT_MESSAGE" value="dns page: added more explanations" />
+    <MESSAGE value="updated: https page" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated: https page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Deployment" timestamp="1602715728655">
@@ -155,10 +161,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="439" y="141" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602706303150" />
-    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1602728930297">
+    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1602729413315">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602728930297" />
+    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602729413315" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602716072153">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -171,9 +177,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="448" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602715952247" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602728938981">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602729423344">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602728938981" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602729423344" />
   </component>
 </project>
